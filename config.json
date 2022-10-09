@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "b8040941f7"
   },
   "options": {
     "autoRead": false,
@@ -10,11 +10,11 @@
     "limitGame": 20
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+      "packname": "reeya",
+    "author": "With <3"
   },
   "owner": [
-    "62812xxx"
+    "6289612228750"
   ],
   "timezone": "Asia/Jakarta",
   "footer": "Powered by https://zenzapis.xyz"
